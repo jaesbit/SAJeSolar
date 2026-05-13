@@ -2,7 +2,7 @@
   "domain": "saj_esolar",
   "name": "SAJ eSolar",
   "version": "2.0.0",
-  "requirements": ["pysaj-elekeeper>=0.0.6"],
+  "requirements": ["pysaj-elekeeper>=0.0.7"],
   "dependencies": [],
   "issue_tracker": "https://github.com/giovadroid/SAJeSolar/issues",
   "documentation": "https://github.com/giovadroid/SAJeSolar/",

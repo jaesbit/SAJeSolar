@@ -10,7 +10,7 @@ from typing import Any
 
 import httpx
 import voluptuous as vol
-from pysaj import PlantOverview, SajApiError, SajAuthError, SajClient
+from elekeeper import PlantOverview, SajApiError, SajAuthError, SajClient
 
 from homeassistant.components.sensor import (
     PLATFORM_SCHEMA,
