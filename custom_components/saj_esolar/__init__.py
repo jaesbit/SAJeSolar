@@ -1,2 +1,1 @@
-"""The SAJ eSolar component."""
-
+"""The SAJ eSolar component — powered by pysaj-elekeeper."""
